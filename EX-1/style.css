@@ -1,0 +1,43 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+div{
+    margin: 30px 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.886);
+}
+
+#button1 {
+    background-color:rgb(31, 94, 81);
+}
+
+#button2 {
+    background-color:rgb(211, 127, 32);
+}
+
+#button3 {
+    background-color:rgb(75, 8, 59);
+}
+
+#button1:hover {
+    background-color: rgb(78, 185, 164);
+}
+
+#button2:hover {
+    background-color: rgb(255, 165, 0);
+}
+
+#button3:hover {
+    background-color: rgb(128, 0, 128);
+}
